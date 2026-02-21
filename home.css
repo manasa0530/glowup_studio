@@ -326,18 +326,36 @@ form>::placeholder{
 
 @media screen and (min-width: 992px) and (max-width: 1280px){
     /* tabs */
-    
+    .homee{
+        flex-wrap: wrap;
+    }
  }
 
 
 @media screen and (min-width :576px) and (max-width :992px ){
-    /* phones */
+    /* phones */ 
+    /* small tabs */
     .index-whole{
         flex-wrap: wrap;
     }
     .booking-whole{
         flex-wrap: wrap;
     }
+    .homee{
+        flex-wrap: wrap;
+    }
+    .tbl{
+         flex-wrap: wrap;
+        text-align: center;
+    }
+    .book-card{
+        height: auto;
+        padding: 80px;
+    }
+    .pot{
+        display: none;
+    }
+
 }
  @media screen and (max-width: 768px){
     .index-whole{
@@ -353,9 +371,9 @@ form>::placeholder{
         flex-wrap: wrap;
         text-align: center;
     }
-    .services{
+    /* .services{
         padding: 10px;
-    }
+    } */
     .hide{
         display: none;
     }
@@ -382,7 +400,25 @@ form>::placeholder{
         padding-bottom: 40px;
     }
     .logoo{
-        height: 80vh;
+        height: 60vh;
         width: 95%;
+    }
+    .new1{
+        height: 40vh;
+        width: 50%;
+        margin-bottom: 10px;
+    }
+    .new2{
+        height: 30vh;
+        width: 45%;
+    }
+    .pot{
+        display: none;
+    }
+    .booking-card,.visit{
+        border-radius: 0px;
+    }
+    .home{
+        height: auto;
     }
  }
