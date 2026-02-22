@@ -49,6 +49,10 @@ p,.style1,.font2{
 .logo:hover{
     color: rgb(230, 100, 69);
 }
+.social:hover{
+    background-color: rgb(203, 90, 62);
+    cursor: pointer;
+}
 .heading2{
     font-size: 50px;
     font-weight: bold;
