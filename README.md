@@ -28,7 +28,7 @@ The main goal of this project was to strengthen my front-end fundamentals and im
 - HTML5  
 - CSS3  
 - Bootstrap 5
-- 
+  
 ### Learning Outcomes
 
 Through this project, I improved my understanding of:
