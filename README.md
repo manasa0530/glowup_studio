@@ -3,11 +3,11 @@
 GlowUp Studio is a modern and fully responsive fashion website built using HTML, CSS, and Bootstrap.  
 This project focuses on clean UI design, structured layout, and smooth user experience across all devices.
 
-# 🔗 Live Demo
+## 🔗 Live Demo
 👉 https://glowupstudio1.netlify.app/
 
 
-#  Project Overview
+###  Project Overview
 This is a static front-end project developed as part of my learning journey in web development.  
 The website represents a fashion brand concept and demonstrates how real-world fashion websites structure their layout and design.
 
